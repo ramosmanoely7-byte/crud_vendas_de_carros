@@ -1,0 +1,21 @@
+{
+  "name": "api_carro",
+  "version": "1.0.0",
+  "main": "server",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "mongodb": "^7.7.0",
+    "moongose": "^1.0.0",
+    "nodemon": "^3.1.14"
+  }
+}
